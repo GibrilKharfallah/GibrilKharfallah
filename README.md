@@ -34,7 +34,7 @@ Hi 👋, I'm Gibril
   <img src="https://img.shields.io/badge/-Seaborn-%2365C2CB?logo=seaborn&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Plotly-%23036FE8?logo=plotly&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Tkinter-%23FF6F00?logo=tkinter&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-PHP-%23F37626?logo=php&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-PHP-%235259CC?logo=php&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-MySQL-%234479A1?logo=mysql&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Bash-%234EAA25?logo=gnu-bash&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-R-%23276DC3?logo=r&logoColor=white" height="30"/>
