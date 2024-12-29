@@ -3,7 +3,7 @@ Hi 👋, I'm Gibril
 ---
 
 # 🧑‍💻 About Me:
-- 🚀 I’m currently working on **A Web Scrapping project**
+- 🚀 I’m currently working on **Learning Web Scrapping**
 - 🌐 All my projects are available at: [My Portfolio](https://gibrilkharfallah.github.io/Portfolio/)
 - 📫 How to reach me: [Email](kharfallahgibril@gmail.com)
 
