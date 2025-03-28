@@ -4,8 +4,8 @@
 
 # 🧑‍💻 About Me:
 - 🚀 I’m currently working on **Building my own LLM**
-- 🌐 All my projects are available at: [My Portfolio](https://gibrilkharfallah.github.io/Portfolio/)
-- 📫 How to reach me: kharfallahgibril@gmail.com
+- 🌐 All my projects are available at : [My Portfolio](https://gibrilkharfallah.github.io/Portfolio/)
+- 📫 How to reach me : kharfallahgibril@gmail.com
 
 ---
 
