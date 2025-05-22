@@ -22,6 +22,3 @@ Currently building Ultron ...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GibrilKharfallah&layout=compact&theme=dark)
 
 ---
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=GibrilKharfallah&color=800020)
